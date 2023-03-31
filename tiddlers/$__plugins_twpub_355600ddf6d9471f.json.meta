@@ -1,0 +1,14 @@
+conversion-errors: 0
+converter-version: 0.1.0
+count-chunks: 13527
+count-images: 67
+cover-image: $:/plugins/twpub/355600ddf6d9471f/images/OEBPS/Image00067.jpg
+description: （2019）四大名师讲真题 考研英语（一）历年真题详解（试卷版）
+epub-creator: 王江涛 唐静 李剑 王晟
+epub-title: （2019）四大名师讲真题 考研英语（一）历年真题详解（试卷版）
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/355600ddf6d9471f
+type: application/json
+version: v0.0.1
