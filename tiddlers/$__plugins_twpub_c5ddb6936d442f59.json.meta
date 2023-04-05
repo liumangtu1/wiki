@@ -1,0 +1,14 @@
+conversion-errors: 0
+converter-version: 0.1.0
+count-chunks: 10564
+count-images: 1
+cover-image: $:/plugins/twpub/c5ddb6936d442f59/images/cover.jpeg
+description: 24考研晶婷老师单词书【纯单词版本】
+epub-creator: h'g'y
+epub-title: 24考研晶婷老师单词书【纯单词版本】
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/c5ddb6936d442f59
+type: application/json
+version: v0.0.1
